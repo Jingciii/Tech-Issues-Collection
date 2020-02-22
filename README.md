@@ -27,3 +27,4 @@ jupyter kernelspec list
 ```
 ipython kernel install --user --name=VENV_NAME
 ```
+see details [here](https://stackoverflow.com/questions/42449814/running-jupyter-notebook-in-a-virtualenv-installed-sklearn-module-not-available)
