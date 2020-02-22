@@ -3,7 +3,9 @@
 ## Virtual Env
 
 **Issue**: Sys path inconsistent in notebooks
+
 **Des**: Cannot import installed packages inside jupyter notebook --> cannot find venv in sys.path/sys.executable
+
 **Sol**: 
 
 *jupyter/ipykernel not installed in venv*
